@@ -1,0 +1,68 @@
+footer {
+   padding: 10px;
+   margin: 50px 0px 10px 10px;
+   border: 1px solid black;
+   width: 610px;
+   float: left;
+   clear: both;
+   background-color: lightgreen
+  
+
+}
+article {
+  padding: 5px;
+   margin: 10px 10px 10px 10px;
+   border: 1px solid black;
+   width: 200px;
+   float: right;
+   height: 191px ;
+  
+   
+
+
+
+
+}
+#wrapper {
+   width: 610px;
+   margin: auto;
+   height:610px ;
+  
+}
+#sidebar{
+  width: 200px;
+   height: 191px;
+   border: 1px solid black;
+   float: left;
+   padding: 5px;
+   margin: 10px 10px 10px 10px;
+  clear: both;
+
+}
+
+
+}
+header{
+  padding: 10px;
+   margin: 50px 0px 10px 10px;
+   border: 1px solid black;
+  
+
+}
+
+nav{
+  padding: 10px;
+   margin: 50px 0px 10px 10px;
+   border: 1px solid black;
+   width: 610px;
+   float: left;
+   clear: both;
+   background-color: lightgreen
+
+}
+
+
+
+body{
+  background-color: darkgreen;
+}
